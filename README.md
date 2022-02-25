@@ -1,4 +1,12 @@
-### Hi there 👋
+   OI, Seja Bem vindo !!
+
+   Meu nome é Nayron Victor Hollupi!!
+
+
+  -  32 anos;
+  -  Estudante de Análise e Desenvolvimento de Sistemas;
+  -  Estágiario Na empresa 5by5 Soluções de sistema.
+ 
 
 <!--
 **Nayron-Hollupi/Nayron-Hollupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
