@@ -3,7 +3,7 @@
    Meu nome é Nayron Victor Hollupi!!
   -  32 anos;
   -  Estudante de Análise e Desenvolvimento de Sistemas;
-  -  Estágiario Na empresa 5by5 Soluções de sistema.
+  -  Trainee Na empresa 5by5 Soluções de sistema.
 
     
 📌 Habilidades Técnicas
