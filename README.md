@@ -1,7 +1,7 @@
    OI, Seja Bem vindo !!
 
    Meu nome é Nayron Victor Hollupi!!
-  -  33 anos;
+  -  34 anos;
   -  Estudante de Análise e Desenvolvimento de Sistemas;
   -  QA na empresa 5by5 Soluções de sistema.
 
@@ -10,12 +10,13 @@
 
   - Git, GitHub
   - JavaScript
-  - PHP /Lumen
-  - C# /.Net em desenvolvimento
+  - Python
+  - C# /.Net 
   - HTML, CSS
   - MySQL 
   - Scrum
   - QA
+  - Robot Framework
 
 
 
