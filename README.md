@@ -40,6 +40,8 @@
      <img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;" width="60" height="55" align="middle">
    <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width: 100%;" width="80" height="95" align="middle">
         <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width: 100%;" width="70" height="65" align="middle">
+         <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg](https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/+esm" style="max-width: 100%;" width="70" height="65" align="middle">
+        
    
    </div>
 <!--
